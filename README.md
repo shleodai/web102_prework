@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<img src='https://github.com/shleodai/web102_prework/blob/main/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img alt="demo.gif" src="https://github.com/shleodai/web102_prework/blob/main/demo.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
